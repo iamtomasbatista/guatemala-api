@@ -26,7 +26,7 @@ DB_PASSWORD=Pa$$w0rd
 
 ## Instrucciones 
 
-- Corre migrate:fresh --seed para que se creen todas las tablas necesarias y poder popularlas con data semilla. 
+- Corre migrate:fresh --seed para que se creen todas las tablas necesarias y sean llenadas con data semilla. 
 
 ``` 
 php artisan migrate --seed
